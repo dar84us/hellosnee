@@ -1,5 +1,5 @@
 ![HelloSnee Logo](output-onlinepngtools.png)
-![HelloSnee Website](Screenshot 2025-05-01 at 20-55-36 HelloSnee TV Service.png)
+![HelloSnee Logo](Screenshot 2025-05-01 at 20-55-36 HelloSnee TV Service.png)
 # HelloSnee Beta 1.0
 
 **HelloSnee** is a nostalgic, browser-based streaming platform that brings back the charm of classic television. It features live streams of real US and Romanian TV channels, with a strong focus on kids' programming and legacy content like Qubo.
